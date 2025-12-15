@@ -1,0 +1,34 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Gradle
+.gradle/
+build/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración sensible
+*.properties
+*.config
+
+# Archivos de API Key (¡IMPORTANTE!)
+api-keys.properties
+config.properties
