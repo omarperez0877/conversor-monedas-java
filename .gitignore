@@ -32,3 +32,7 @@ Thumbs.db
 # Archivos de API Key (¡IMPORTANTE!)
 api-keys.properties
 config.properties
+
+# Archivos de configuración con datos sensibles
+config/
+!config.properties.example  # Excepción: archivo de ejemplo sí se sube

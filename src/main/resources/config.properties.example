@@ -1,0 +1,4 @@
+# Ejemplo de configuración - Renombrar a config.properties y agregar tu API key
+api.key=TU_API_KEY_AQUI
+api.base_url=https://v6.exchangerate-api.com/v6/
+api.base_currency=USD
